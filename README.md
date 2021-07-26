@@ -1,6 +1,6 @@
 # PolygonSimplication
 
-학습용으로 제작된 프로젝트입니다.
+학습용으로 제작된 프로젝트입니다.<br>
 PolygonSimpication 알고리즘 중 하나인 Ramer-Douglas-Peucker 알고리즘을 이용했습니다.
 
 ## PolygonCollider Simplication
